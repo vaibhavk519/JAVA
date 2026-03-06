@@ -5,4 +5,10 @@
   font-style: normal;
   background-color: #76d867;
   color: #0b3f87;
+  text-align: center;
+}
+
+h1,h2,h3,h4{
+    padding: 10px;
+    margin: 10px;
 }
